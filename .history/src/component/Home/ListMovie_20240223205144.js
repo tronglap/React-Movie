@@ -23,12 +23,12 @@ const ListMovie = (props) => {
     <div className="list-movie m-5">
       <Container>
         <div className="headline text-center">
-          <p className="text-warning">Offline Streaming</p>
+          <p className="text-warning">Online Streaming</p>
           <h1>{props.title}</h1>
         </div>
 
         <div className="slider-container mt-4 list">
-          <Slider {...settings}>
+          <Slider {...settings} xs={6}>
             {ListMovie.results &&
               ListMovie.results.map((item) => (
                 <CardMovie

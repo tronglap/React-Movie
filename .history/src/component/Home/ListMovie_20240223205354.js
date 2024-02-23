@@ -21,9 +21,9 @@ const ListMovie = (props) => {
 
   return (
     <div className="list-movie m-5">
-      <Container>
+      <Container md={6}>
         <div className="headline text-center">
-          <p className="text-warning">Offline Streaming</p>
+          <p className="text-warning">Online Streaming</p>
           <h1>{props.title}</h1>
         </div>
 
