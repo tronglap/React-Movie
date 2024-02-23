@@ -1,0 +1,22 @@
+.text-color {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.text-color:hover {
+    color: yellow
+}
+
+.active {
+    color: yellow
+}
+
+.space {
+    margin-right: 10px;
+}
+
+.search {
+    border: yellow 2px solid;
+}

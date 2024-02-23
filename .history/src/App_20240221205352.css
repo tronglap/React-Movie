@@ -1,0 +1,9 @@
+.dark {
+  background-color: black;
+  color: white;
+  height: max-content;
+}
+
+a {
+  text-decoration: none;
+}

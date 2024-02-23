@@ -1,0 +1,8 @@
+.text-color {
+    color: white;
+    font-weight: bold;
+}
+
+.text-color:hover {
+    color: yellow
+}

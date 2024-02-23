@@ -1,0 +1,7 @@
+.text-color {
+    color: white
+}
+
+.text-color:hover {
+    color: yellow
+}

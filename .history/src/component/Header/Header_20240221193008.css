@@ -1,0 +1,10 @@
+.text-color {
+    display: flex;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text-color:hover {
+    color: yellow
+}

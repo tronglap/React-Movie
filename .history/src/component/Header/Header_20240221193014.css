@@ -1,0 +1,11 @@
+.text-color {
+    display: flex;
+    gap: 20px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.text-color:hover {
+    color: yellow
+}
